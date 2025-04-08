@@ -2,7 +2,7 @@
 - 👀 I’m interested in website design
 - 🌱 I’m currently learning bootstrap
 - 💞️ I’m looking to collaborate on website development
-- 📫 How to reach me WhatsApp only 09072635232
+- 📫 How to reach me salmakabir000@gmail.com
 
 <!---
 salmakabir000/salmakabir000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
