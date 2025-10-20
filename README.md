@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salmakabir000
 - 👀 I’m interested in website design
-- 🌱 I’m currently learning bootstrap
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me salmakabir000@gmail.com
 
