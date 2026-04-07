@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Turning+Data+into+Insights;SQL+%7C+Excel+%7C+Power+BI&center=true&width=500&height=45">
 </p>
----
+
 
 ## 💫 About Me  
 - Obsessed with finding patterns within spreadsheet  
