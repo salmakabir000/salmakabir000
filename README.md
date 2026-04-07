@@ -10,6 +10,7 @@
 - Building real-world portfolio projects  
 - Learning Python for deeper analysis  
 ---
+
 ## 🛠️ Tech Stack  
 <p>
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=MySQL&logoColor=white"/>
@@ -18,20 +19,24 @@
   <img src="https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi"/>
 </p>
 ---
+
 ## 📊 Featured Projects  
 ### Coming Soon
 ---
+
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Salmakabir000&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmakabir000&layout=compact&theme=tokyonight"/>
 </p>
 ---
+
 ## 🔥 Streak Stats  
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Salmakabir000&theme=tokyonight"/>
 </p>
 ---
+
 ## 🤝 Connect With Me  
 <p>
   <a href="https://linkedin.com/in/salamatu-kabiru-adamu-862807178">
@@ -39,6 +44,7 @@
   </a>
 </p>
 ---
+
 ## ⚡ Fun Fact  
 I sometimes talk to my spreadsheets… 💀  
 <!---
